@@ -14,7 +14,7 @@
   <name>BookManager Maven Webapp</name>
   <properties>
     <java-version>1.13</java-version>
-    <org.springframework-version>5.2.2.RELEASE</org.springframework-version>
+    <org.springframework-version>5.3.18</org.springframework-version>
     <hibernate.version>5.4.9.Final</hibernate.version>
     <commons-dbcp.version>1.4</commons-dbcp.version>
     <commons-dbcp2.version>2.7.0</commons-dbcp2.version>
